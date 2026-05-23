@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Técnica em Informática e estudante de Sistemas de Informação na UNIP, com foco em desenvolvimento Back-End e Banco de Dados.<br><br>Atualmente estudo Python e MySQL, desenvolvendo projetos práticos voltados à lógica de programação, manipulação de dados e desenvolvimento de sistemas.<br><br>Sou apaixonada por tecnologia e estou constantemente buscando evoluir minhas habilidades através de estudos, prática e novos desafios na área de desenvolvimento.</p>
+<p align="left">Técnica em Informática e estudante de Sistemas de Informação na UNIP, com foco em desenvolvimento Back-End.<br><br>Atualmente estudo Python e MySQL, desenvolvendo projetos práticos voltados à lógica de programação, manipulação de dados e desenvolvimento de sistemas.<br><br>Sou apaixonada por tecnologia e estou constantemente buscando evoluir minhas habilidades através de estudos, prática e novos desafios na área de desenvolvimento.</p>
 
 ###
 
